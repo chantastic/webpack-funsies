@@ -1,0 +1,19 @@
+{
+  "name": "webpack-funsies",
+  "version": "0.0.0",
+  "description": "webpack for funsies",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chantastic/webpack-funsies.git"
+  },
+  "author": "Michael Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chantastic/webpack-funsies/issues"
+  },
+  "homepage": "https://github.com/chantastic/webpack-funsies"
+}
