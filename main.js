@@ -1,3 +1,5 @@
-var text = require("./src/hello_world.js");
+/** @jsx React.DOM */
+var React = require('react');
+var HelloWorld = require('./src/hello_world');
 
-document.write(text);
+React.renderComponent(<HelloWorld />, document.body);
