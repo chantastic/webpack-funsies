@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chantastic/webpack-funsies",
   "dependencies": {
+    "flux": "git+https://github.com/facebook/flux.git",
     "jsx-loader": "^0.11.0",
     "react": "^0.11.1"
   }
