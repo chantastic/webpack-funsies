@@ -6,6 +6,7 @@ module.exports = {
   },
   module: {
     loaders: [
+      {test: /\.js$/, loader: 'es6-loader'},
       {test: /\.js$/, loader: 'jsx-loader'}
     ]
   }
