@@ -1,4 +1,5 @@
 /** @jsx React.DOM */
 var React = require('react');
+var TodoApp = require('./components/TodoApp.react');
 
-React.renderComponent(<h1> Hello World </h1>, document.body);
+React.renderComponent(<TodoApp />, document.body);
